@@ -1,4 +1,8 @@
 # Ejercicio2
 Ejercicio en cypress 
 
-ejecutar npx cypress open y ejecutar el ejercicio 2
+Ubicarnos en el archivo Ejercicio 2 
+Abrir terminal 
+Ejecutar npx cypress open 
+Seleccionar Chrome 
+y ejecutar el ejercicio 2
