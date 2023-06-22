@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "PRUEBAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --env rucqa=72126234,obsqa=pruebaconCypress,trazaqa=trazaqa1702 --spec 'cypress/e2e/smokeBoletaPV.cy.js'",  
+    "test crt": "cypress run --browser chrome --spec 'cypress/e2e/smokeBoletaPV.cy.js'"  
+    
+  },
+
+  "author": "diego",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
